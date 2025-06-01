@@ -11,7 +11,7 @@ Exams proceed as follows:
 
 1. I will first pick one of your coding assignments and ask you to introduce it.
 2. The discussion then naturally moves on to other topics, with broader questions on the material we covered during the class.
-3. I will then ask you to pick a coding assignment of your choice (another one) and introduce it. This is up to you! You could pick the one you liked the most, the one you're most proud of, the one that is closer to your targeted research area, etc.
+3. I will then ask you to pick another coding assignment of your choice and introduce it. This is up to you! You could pick the one you liked the most, the one you're most proud of, the one that is closer to your targeted research area, etc.
 
 Each of these three parts usually lasts about 15 minutes, for a total of 45-ish minutes. 
 
