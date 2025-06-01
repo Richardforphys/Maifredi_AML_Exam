@@ -48,7 +48,7 @@ Each of these three parts usually lasts about 15 minutes, for a total of 45-ish 
 14. Supernova distances and redshifts, part 2 (*covered in class*) and part 3 (*to be completed at home*) **(examinable, both)**  [[see L18]](lectures/L18_regression.ipynb)
 15. SDSS galaxies vs quasars, part 1 **(examinable)** [[see L19]](lectures/L19_classification.ipynb); 
 16. Gravitational-wave detectability, part 1 **(one examinable)** [[see L20]](lectures/L20_classification.ipynb)
-17. Tensorflow playground **(optional, I won't ask this)** [[see L21]](lectures/L21_deeplearning.ipynb)
+17. Tensorflow playground **(optional)** [[see L21]](lectures/L21_deeplearning.ipynb)
 18. SDSS galaxies vs quasars, part 2 *or* Gravitational-wave detectability, part 2 *or* HiggsML challenge **(one examinable, the others are optional, your choice)** [[see L22]](lectures/L22_deeplearning.ipynb)
 
 
